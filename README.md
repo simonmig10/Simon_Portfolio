@@ -34,8 +34,11 @@ This is split into an analysis of the punk/rock genre compared with other genres
 - Comparison of sentiment between the three bands 
 - Development of different sentiements used by the three bands. 
 
+
+![alt_text](https://github.com/simonmig10/Simon_Portfolio/blob/main/Images/Bands%20sentiment%20box%20plot.png?raw=true)
+
 ### Nerual Network analysis
 
 - Bidirectional LSTM model
 
-![alt_text](https://github.com/simonmig10/Simon_Portfolio/blob/main/Images/Bands%20sentiment%20box%20plot.png?raw=true)
+
