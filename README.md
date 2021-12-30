@@ -40,3 +40,12 @@ This is split into an analysis of the punk/rock genre compared with other genres
 
 - Bidirectional LSTM model
 
+
+# Bachelors project Economics AAU [Verification of Tobins portfolio theory in a PK-SFC model](https://projekter.aau.dk/projekter/da/studentthesis/en-efterproevning-af-tobins-portefoeljeteori-i-en-teoretisk-stockflow-consistent-model(60c6f477-cd4a-4eb1-bd8b-79a45bcce828).html)
+
+- Theoretical PK-SFCC model 
+- Tobins portfolio theory
+- ARDL Bounds tests 
+- VAR models 
+
+
