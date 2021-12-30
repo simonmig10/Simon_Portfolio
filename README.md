@@ -35,7 +35,7 @@ This is split into an analysis of the punk/rock genre compared with other genres
 - Development of different sentiements used by the three bands. 
 
 
-![alt_text](https://github.com/simonmig10/Simon_Portfolio/blob/main/Images/Green%20Day%20Senti.png?raw=true)
+![alt_text](https://github.com/simonmig10/Simon_Portfolio/blob/main/Images/Green%20Day%20Sadness.jpg?raw=true)
 
 ### Nerual Network analysis
 
