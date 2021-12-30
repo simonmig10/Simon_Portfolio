@@ -2,7 +2,7 @@
 My data science portfolio
 
 
-# Project 1 Movie_description
+# Project 1 [Movie_description](https://github.com/simonmig10/Movie_description)
 NLP analyses of movie descriptions 
 
 ## Network analysis
@@ -14,3 +14,5 @@ NLP analyses of movie descriptions
 
 - Multiclass model predicting genre based on the movie description
 - Similarity prediction 
+
+
