@@ -31,6 +31,10 @@ This is split into an analysis of the punk/rock genre compared with other genres
 
 #### Analysis of Favorite bands
 - Graph showing most popular words in the bands lyrics
+- Comparison of sentiment between the three bands 
+
+![alt_text](https://github.com/simonmig10/Simon_Portfolio/blob/main/Images/Bands%20sentiment%20box%20plot.png)
+
 - Development of different sentiements used by the three bands. 
 
 ### Nerual Network analysis
