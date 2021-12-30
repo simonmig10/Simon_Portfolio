@@ -40,4 +40,3 @@ This is split into an analysis of the punk/rock genre compared with other genres
 
 - Bidirectional LSTM model
 
-
